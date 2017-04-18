@@ -1,7 +1,7 @@
 {
     "author": "kai zhu <kaizhu256@gmail.com>",
     "buildNpmdoc": "object-assign",
-    "description": "api documentation for [object-assign (v4.1.1)](https://github.com/sindresorhus/object-assign#readme) [![npm package](https://img.shields.io/npm/v/npmdoc-object-assign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-object-assign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-object-assign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-object-assign)",
+    "description": "#### api documentation for  [object-assign (v4.1.1)](https://github.com/sindresorhus/object-assign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-object-assign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-object-assign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-object-assign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-object-assign)",
     "devDependencies": {
         "electron-lite": "kaizhu256/node-electron-lite#alpha",
         "object-assign": "*",
@@ -36,5 +36,5 @@
         "start": "(set -e; export PORT=${PORT:-8080}; utility2 start test.js)",
         "test": "(set -e; export PORT=$(utility2 shServerPortRandom); utility2 test test.js)"
     },
-    "version": "0.0.3"
+    "version": "0.0.4"
 }
