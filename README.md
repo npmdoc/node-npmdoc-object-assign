@@ -1,6 +1,6 @@
 # npmdoc-object-assign
 
-#### api documentation for  [object-assign (v4.1.1)](https://github.com/sindresorhus/object-assign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-object-assign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-object-assign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-object-assign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-object-assign)
+#### basic api documentation for  [object-assign (v4.1.1)](https://github.com/sindresorhus/object-assign#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-object-assign.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-object-assign) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-object-assign.svg)](https://travis-ci.org/npmdoc/node-npmdoc-object-assign)
 
 #### ES2015 `Object.assign()` ponyfill
 
@@ -85,7 +85,8 @@
         "bench": "matcha bench.js",
         "test": "xo && ava"
     },
-    "version": "4.1.1"
+    "version": "4.1.1",
+    "bin": {}
 }
 ```
 
